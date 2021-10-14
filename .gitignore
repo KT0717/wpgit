@@ -1,0 +1,15 @@
+/*
+!wp-content/
+!/.gitignore
+!/assets/
+!README.md
+!/pardot_post/
+wp-content/*
+!wp-content/themes/
+!wp-content/plugins/
+wp-content/plugins/*
+wp-content/themes/twenty*/
+node_modules/
+*.log
+*.sql
+*.sqlite
